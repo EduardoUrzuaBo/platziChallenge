@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+testproject-python-sdk = "==1.2.2"
+pytest = "==6.1.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
